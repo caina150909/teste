@@ -1,5 +1,6 @@
-print("hello mundo")
+num1 = int(input("escreve o primeiro numero ae: "))
+num2 = int(input("escreve o segundo numero ae: "))
 
-print("kkkkkkk")
+soma = num1 * num2 
 
-print("a meu deus como faz isso")
+print("resultado ae pae: ",soma)
